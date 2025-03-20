@@ -7,7 +7,11 @@ import random
 
 parte1 = ["O sitema em desenvolvimento",
           "O novo protocolo de comunicação",
+<<<<<<< HEAD
           "O algoritimo de otimizações"]
+=======
+          "O algoritimo foi otimizado e "]
+>>>>>>> main
 parte2 = ["oferece garantias de precisão acima da média"
         "possui excelente desenpenho",
         "preenche uma lacuna significativa"]
