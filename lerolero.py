@@ -15,4 +15,12 @@ parte3 = ["nas aplicações em que se destina",
           "em relação as demais opções do mercado",
           ".Promovendo ampla vantagem competitiva"]
 
+lingua = int(input("Escolha a lingua: 1 - portugues , 2 - ingles\n")) 
+
+if lingua == 2:
+    parte1 = []
+    parte2 = []
+    parte3 = []
+
+
 print(random.choice(parte1),random.choice(parte2),random.choice(parte3))
